@@ -1,0 +1,32 @@
+:root{
+	--color-bg:black;
+	--color-text:white;
+	
+	--font-main:arial;
+	--spacing-unit:10px;
+	
+	
+	
+}
+
+#nav{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:20px;
+	background-color:black;
+	margin:0px;  
+}
+
+#nav div{
+	display:flex;
+	flex-direction:row;
+}
+
+.li{ display:inline;
+    justify-content:flex-end;
+     margin:20px;
+	 color:white;
+     align-items:right;
+ 
+ }
