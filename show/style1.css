@@ -1,0 +1,41 @@
+.A{display:flex;
+   background-color: aqua;
+   margin-top: 300px;
+   align-items: center;
+   width:300px;
+   height:300px;
+   justify-content: center;
+   align-items:center;
+   border:2px solid black;
+   border-radius:30px;
+   margin-left:750px;
+   flex-direction: column;
+   
+   
+   }
+
+button{
+   border-radius: 20px;
+   width:80px;
+   height:40px;
+   font-size:18px;
+   margin-top:20px;
+   margin-right:10px;
+
+   
+
+   
+   
+}     
+.A{
+   display: flex;
+   
+}
+   input{
+      width:180px;
+      height:35px;
+      font-size:18px;
+      padding:5px;
+      margin-right:10px;
+   }
+
